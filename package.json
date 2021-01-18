@@ -5,7 +5,7 @@
   "description": "Elastic APM RUM agent",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elastic/apm-agent-rum-js.git"
+    "url": "https://github.com/olegsxm/apm-agent-rum-js.git"
   },
   "scripts": {
     "version": "node scripts/prompt-release",
@@ -67,12 +67,12 @@
   "license": "MIT",
   "homepage": "https://www.elastic.co/guide/en/apm/agent/rum-js/current/index.html",
   "devDependencies": {
-    "@angular/common": "^8.2.2",
-    "@angular/compiler": "^8.2.2",
-    "@angular/core": "^8.2.2",
-    "@angular/platform-browser": "^8.2.2",
-    "@angular/platform-browser-dynamic": "^8.2.2",
-    "@angular/router": "^8.2.2",
+    "@angular/common": "^11.0.7",
+    "@angular/compiler": "^11.0.7",
+    "@angular/core": "^11.0.7",
+    "@angular/platform-browser": "^11.0.7",
+    "@angular/platform-browser-dynamic": "^11.0.7",
+    "@angular/router": "^11.0.7",
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
     "@babel/plugin-proposal-class-properties": "^7.7.4",

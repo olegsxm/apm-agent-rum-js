@@ -43,7 +43,7 @@
     "@elastic/apm-rum-core": "file:../rum-core"
   },
   "peerDependencies": {
-    "@angular/core": "^8.0.0",
-    "@angular/router": "^8.0.0"
+    "@angular/core": "^11.0.7",
+    "@angular/router": "^11.0.7"
   }
 }
